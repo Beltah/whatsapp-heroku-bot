@@ -1,6 +1,6 @@
 # WhatsApp Heroku Bot
 
-Uses [Venom Bot](https://github.com/orkestral/venom) library.
+Uses [Beltah Bot](https://github.com/orkestral/venom) library.
 
 
 ## Deploying to heroku
